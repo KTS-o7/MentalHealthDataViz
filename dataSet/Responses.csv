@@ -11,7 +11,7 @@ Timestamp,Gender,Age,Age,What are you studying?,"Current Year of Study, If you a
 8/18/2023 12:04:33,Male,Below 23 years of age,20,College(UG),2,8.51,Yes,5,1,Not at all,No,No,"No, I manage my time","Yes, I eat too much",Yes,0-2 hours,7-9,Yes,No,Never,No,,,,,,,,,,,,,,,,,,,,
 8/18/2023 12:52:01,Female,Below 23 years of age,20,College(UG),2,9.14,Yes,3,3,Very Often,No,No,"Yes, I find it hard to manage my time","Yes, I don't feel hungry",No,2-4 hours,7-9,No,Yes,Sometimes,Yes,,,,,,,,,,,,,,,,,,,,
 8/18/2023 12:59:20,Female,Below 23 years of age,20,College(UG),2,8.52,Yes,3,2,Somewhat often,No,Yes,"Yes, I find it hard to manage my time","Yes, I don't feel hungry",No,2-4 hours,7-9,Yes,No,Sometimes,Yes,,,,,,,,,,,,,,,,,,,,
-8/18/2023 13:55:23,Female,Below 23 years of age,22,College(UG),4,9.0,Yes,3,3,Somewhat often,No,No,"Yes, I find it hard to manage my time",Not much,Yes,2-4 hours,7-9,Yes,Yes,Sometimes,No,,,,,,,,,,,,,,,,,,,,
+8/18/2023 13:55:23,Female,Below 23 years of age,22,College(UG),4,9,Yes,3,3,Somewhat often,No,No,"Yes, I find it hard to manage my time",Not much,Yes,2-4 hours,7-9,Yes,Yes,Sometimes,No,,,,,,,,,,,,,,,,,,,,
 8/18/2023 14:06:01,Female,Below 23 years of age,19,College(UG),1,8.6,Yes,3,1,Somewhat often,No,No,"No, I manage my time",No change,Yes,0-2 hours,7-9,Yes,No,Not much,Yes,,,,,,,,,,,,,,,,,,,,
 8/18/2023 14:13:23,Male,Below 23 years of age,19,College(UG),2,9.05,Yes,1,1,Very Often,Yes,Yes,"Yes, I find it hard to manage my time","Yes, I don't feel hungry",No,6+ hours,Less than 4,No,Yes,Very often,No,,,,,,,,,,,,,,,,,,,,
 8/18/2023 14:18:01,Male,Below 23 years of age,20,College(UG),2,8.74,Yes,1,2,Not so often,No,No,"No, I manage my time",Not much,Yes,0-2 hours,7-9,Yes,No,Never,No,,,,,,,,,,,,,,,,,,,,
@@ -114,7 +114,7 @@ Timestamp,Gender,Age,Age,What are you studying?,"Current Year of Study, If you a
 8/19/2023 7:38:11,Female,Above 23 years of age,,,,,,,,,,,,,,,,,,,,38,Homemaker,2,2,No,No,No change,Not so often,Often,3,7-9,Yes,No,No,Neutral,No,No,No,Married,No
 8/19/2023 7:53:49,Female,Below 23 years of age,19,College(UG),2,9.17,Yes,2,3,Somewhat often,Yes,No,"Yes, I find it hard to manage my time","Yes, I don't feel hungry",Yes,0-2 hours,7-9,No,No,Not much,No,,,,,,,,,,,,,,,,,,,,
 8/19/2023 7:59:12,Female,Below 23 years of age,19,College(UG),1,9.95,Yes,2,2,Somewhat often,No,Yes,"Yes, I find it hard to manage my time",Not much,Yes,0-2 hours,7-9,Yes,No,Not much,No,,,,,,,,,,,,,,,,,,,,
-8/19/2023 8:13:48,Female,Below 23 years of age,19,College(UG),1,9.0,Yes,2,3,Somewhat often,No,No,"Yes, I find it hard to manage my time","Yes, I eat too much",No,2-4 hours,7-9,No,Yes,Often,No,,,,,,,,,,,,,,,,,,,,
+8/19/2023 8:13:48,Female,Below 23 years of age,19,College(UG),1,9,Yes,2,3,Somewhat often,No,No,"Yes, I find it hard to manage my time","Yes, I eat too much",No,2-4 hours,7-9,No,Yes,Often,No,,,,,,,,,,,,,,,,,,,,
 8/19/2023 8:33:07,Male,Above 23 years of age,,,,,,,,,,,,,,,,,,,,44,Self-employed,2,2,Yes,No,No change,Somewhat often,Sometimes,3,4-6,No,No,Yes,Agree,Yes,No,Yes,Married,Yes
 8/19/2023 8:33:23,Female,Above 23 years of age,,,,,,,,,,,,,,,,,,,,41,IT Professional,3,3,No,Sometimes,Not much,Very Often,Sometimes,4,7-9,Yes,Yes,No,Neutral,Yes,No,No,Married,No
 8/19/2023 9:00:52,Female,Below 23 years of age,18,College(UG),1,9.05,Yes,3,4,Very Often,No,No,"Yes, I find it hard to manage my time","Yes, I eat too much",Yes,4-6 hours,7-9,Yes,No,Not much,No,,,,,,,,,,,,,,,,,,,,
@@ -127,7 +127,7 @@ Timestamp,Gender,Age,Age,What are you studying?,"Current Year of Study, If you a
 8/19/2023 9:57:23,Male,Above 23 years of age,,,,,,,,,,,,,,,,,,,,Nagendra CB,Self-employed,2,2,No,No,Not much,Not at all,Often,4,7-9,Yes,No,No,Strongly disagree,No,No,No,Married,No
 8/19/2023 9:59:57,Female,Below 23 years of age,18,College(UG),1,9,Yes,3,4,Very Often,No,Yes,"Yes, I find it hard to manage my time","Yes, I eat too much",No,0-2 hours,4-6,Yes,No,Sometimes,Yes,,,,,,,,,,,,,,,,,,,,
 8/19/2023 10:01:47,Male,Below 23 years of age,19,College(UG),1,9.4,Yes,3,3,Somewhat often,No,No,"Yes, I find it hard to manage my time",Not much,Yes,2-4 hours,4-6,Yes,Yes,Not much,Yes,,,,,,,,,,,,,,,,,,,,
-8/19/2023 10:23:03,Male,Below 23 years of age,19,College(UG),1,CGPA 9.65,Yes,4,2,Somewhat often,No,Yes,"Yes, I find it hard to manage my time",No change,Yes,0-2 hours,7-9,Yes,No,Not much,No,,,,,,,,,,,,,,,,,,,,
+8/19/2023 10:23:03,Male,Below 23 years of age,19,College(UG),1,9.65,Yes,4,2,Somewhat often,No,Yes,"Yes, I find it hard to manage my time",No change,Yes,0-2 hours,7-9,Yes,No,Not much,No,,,,,,,,,,,,,,,,,,,,
 8/19/2023 10:31:08,Male,Below 23 years of age,20,College(UG),2,9.46,Yes,3,2,Not so often,No,No,"Yes, I find it hard to manage my time",Not much,No,0-2 hours,4-6,Yes,No,Never,No,,,,,,,,,,,,,,,,,,,,
 8/19/2023 10:46:39,Female,Above 23 years of age,,,,,,,,,,,,,,,,,,,,39,Homemaker,4,4,Yes,No,No change,Not so often,Very Often,4,7-9,Yes,No,No,Strongly disagree,No,No,No,Married,No
 8/19/2023 10:54:47,Female,Above 23 years of age,,,,,,,,,,,,,,,,,,,,42,IT Professional,3,1,No,No,Not much,Not so often,Often,2,4-6,Yes,No,Yes,Neutral,No,No,No,Married,No
